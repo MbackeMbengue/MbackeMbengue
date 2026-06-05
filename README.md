@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Cheikh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular, React, Django...
+- 👋 Hi there!
+- On my way learning data stuffs
 - 📫 How to reach me cmkm.etu@gmail.com
 
 <!---
